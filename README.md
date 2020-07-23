@@ -5,3 +5,5 @@ Desafio final do BootCamp Desenvolvedor FullStack da IGTI - https://www.igti.com
 Backend com node, express,  mongoose, MongoDB, MongoDB Atlas;
 
 FrontEnd (pasta /Client) com react, materialize-css, axios, react-modal.
+
+Implantação no Heroku utilizando Heroku CLI
